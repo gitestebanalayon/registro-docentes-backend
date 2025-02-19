@@ -536,4 +536,3 @@ switch ($method) {
         ]);
         break;
 }
-
